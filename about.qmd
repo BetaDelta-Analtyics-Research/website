@@ -1,0 +1,78 @@
+---
+title: "About"
+---
+
+## Brian Davidhizar, CIPM
+
+### Bio
+
+I am an analytics professional with an investments, finance, & market research background.  I am also a U.S. Marine Corps Veteran.  My family and I call Franklin, Tennessee home (just south of Nashville).  I enjoy scrutinizing soccer highlights, reading leadership literature, and leveling-up on data visualization techniques.  I dabble in military history, geography, and theology and also like to hike when I can find the time.  I currently work full-time for Ramsey Solutions as a data analyst in the digital marketing and real estate business analytics space.
+
+---
+
+### Professional Credentials
+
+###### Certificate in Investment Performance Measurement
+
+CFA Institute
+
+###### Certified Tableau Desktop Specialist
+
+Tableau
+
+###### Certified Data Science Professional
+
+DataCamp
+
+---
+
+### Academic Credentials
+
+#### Master of Science
+
+|     Data Science (current candidate) | Eastern University
+|     Leadership | Norwich University
+|     Accounting & Financial Management | University of Maryland Global Campus
+
+#### Graduate Certificate
+
+|     Compuatational Finance | University of Washington
+
+#### Bachelor of Science
+
+|     International Business | Messiah University
+
+#### Associate of Arts
+
+|     Spanish | Defense Language Institute
+
+---
+
+### Professional Experience
+
+###### Ramsey Solutions
+
+|     Data Analyst II
+
+###### T. Rowe Price Associates, Inc.
+
+|     Senior Manager, Data Analytics, VP
+|     Product Analyst, AVP
+|     Senior Market Research Analyst
+|     Quantitative Investment Performance Analyst
+|     Senior Portfolio Accountant
+
+###### Arthur Bell CPAs (now part of Cohen & Company)
+
+|     Hedge Fund Audit Staff
+
+###### PricewaterhouseCoopers LLP
+
+|     Assurance Associate
+
+###### United States Marine Corps
+
+|     Sergeant, Spanish CryptoLinguist, Signals Intelligence
+
+---
+

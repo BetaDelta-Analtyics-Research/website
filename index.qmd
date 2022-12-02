@@ -1,0 +1,14 @@
+---
+title: "BetaDelta Analytics & Research"
+format:
+  html:
+    theme: lux
+---
+
+This is a Quarto website. It is currently under construction.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

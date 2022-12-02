@@ -8,3 +8,18 @@ format:
 <br>
 
 ##### Chart something better with data.
+
+###### Specialties
+
+|     Building charts and tables you can actually understand.
+
+|     Creating data visualizations you are excited to share with your team.
+
+|     Providing you more bandwidth by organizing data and reporting using Microsoft Excel.
+
+|     Accelerating important business conversations by leveraging data more powerfully. 
+
+|     Delivering situational awareness through Tableau/PowerBI dashboards.
+
+|     Querying databases using PostgreSQL, manipulating data using R and/or Python programming, and *Charting something better with data.*
+

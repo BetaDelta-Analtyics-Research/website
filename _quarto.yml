@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - mission.qmd  
       - about.qmd
     logo: 'BetaDelta_thumb_black.png'
 

@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - DataViz.qmd
       - mission.qmd  
       - about.qmd
       - contact_us.qmd

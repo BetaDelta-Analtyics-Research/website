@@ -30,21 +30,35 @@ DataCamp
 
 #### Master of Science
 
-|     Data Science (current candidate) \| Eastern University
-|     Leadership \| Norwich University
-|     Accounting & Financial Management \| University of Maryland Global Campus
+###### Data Science (current candidate) 
+
+|     Eastern University
+
+###### Leadership
+
+|     Norwich University
+
+###### Accounting & Financial Management 
+
+|     University of Maryland Global Campus
 
 #### Graduate Certificate
 
-|     Compuatational Finance \| University of Washington
+###### Computational Finance 
+
+|     University of Washington
 
 #### Bachelor of Science
 
-|     International Business \| Messiah University
+###### International Business 
+
+|     Messiah University
 
 #### Associate of Arts
 
-|     Spanish \| Defense Language Institute
+###### Spanish 
+
+|     Defense Language Institute
 
 ------------------------------------------------------------------------
 

@@ -10,7 +10,7 @@ title: "Portfolio"
 
 <br>
 
-```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=6, fig.width=5.5}
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=6, fig.width=5.5, dpi=300}
 library(tidyverse)
 library(readxl)
 library(ggrepel)

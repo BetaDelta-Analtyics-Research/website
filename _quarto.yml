@@ -10,7 +10,7 @@ website:
         text: Home
       - mission.qmd  
       - about.qmd
-      - contact us.qmd
+      - contact_us.qmd
     logo: 'BetaDelta_thumb_black.png'
   twitter-card: true
   google-analytics: "G-CE2VLG3CQL"

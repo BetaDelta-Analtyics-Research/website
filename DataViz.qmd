@@ -43,4 +43,3 @@ ggplot(df, aes(date, value)) +
         text=element_text(family = "serif") #remove y axis ticks
         )
 ```
-

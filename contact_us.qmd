@@ -1,29 +1,17 @@
 ---
-title: "Contact Us"
+title: "Work with us"
 ---
 
-##### Let's talk.
+###### Let's work together.  
+
+###### Leave your details and we'll reach out soon.
 
 <br>
 
-###### email
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(knitr)
+include_url("https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16", height = "880px")
+```
 
-brian.davidhizar@gmail.com
 
-<br>
 
-###### call or text
-
-1 (U.S.) 667-272-6601
-
-<br>
-
-###### Social
-
-[LinkedIn Profile: BetaDelta Analytics & Research](https://www.linkedin.com/company/betadelta-analytics-research/)
-
-[LinkedIn Profile: Brian Davidhizar](https://www.linkedin.com/in/briandavidhizar/)
-
-[Twitter: @bravolimadelta](https://twitter.com/BravoLimaDelta)
-
-[GitHub: @bravo-lima-delta](https://github.com/Bravo-Lima-Delta)

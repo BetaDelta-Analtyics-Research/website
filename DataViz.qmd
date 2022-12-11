@@ -19,16 +19,19 @@ library(geomtextpath)
 
 df <- read_xlsx("Growth of 10 Dollars Table.xlsx")
 
+df_points <- rbind(head(df,1), df[120,], df[240,], df[360,], tail(df,1))
+
 colorp <- c("#252525", "#969696", "#a50f15")
 
 ggplot(df, aes(date, value)) + 
   geom_textline(label = "$10  a day invested monthly @ 9% annual growth.", 
-                linewidth = 1, color = colorp[1], vjust = -0.5, family = "serif", size = 5) +
-  geom_point(data = rbind(head(df,1),tail(df,1)), aes(date, value), size = 4, color = colorp[3], family = "serif") +
-  geom_text_repel(data = rbind(head(df,1),tail(df,1)), aes(label = scales::dollar(round(value,0))), 
-            size = 4, color = colorp[1], direction="both", point.padding = 15, nudge_y=15, family = "serif") +
+                linewidth = 1, color = colorp[1], vjust = 1.5, hjust = 0.75, family = "serif", size = 5) +
+  geom_point(data = df_points, aes(date, value), size = 4, color = colorp[3], family = "serif") +
+  geom_text_repel(data = df_points, aes(label = scales::dollar(round(value,0))), 
+            size = 4, color = colorp[1], direction="both", vjust = -1.5, hjust = 1.2, point.padding = 10, 
+            family = "serif") + 
   labs(title = "What habit can you change to save $10 a day?",
-       subtitle = "Financial Coaching can help you change your life.",
+       subtitle = "Financial coaching can help you change your life.",
        caption = "\n Data visaulization by BetaDelta Analytics & Research") + 
   xlab(" \n 40 years starting New Year's 2023.  You can do it.") +
   ylab("") +

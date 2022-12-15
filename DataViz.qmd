@@ -1,12 +1,16 @@
 ---
 title: "Portfolio"
+format:
+  html:
+    theme: lux
+    page-layout: full
 ---
 
-##### Data Journalism
+##### Chart better. Lead better.
 
 <br>
 
-###### some basic charts
+###### Get a chart that resonates with your people.
 
 <br>
 

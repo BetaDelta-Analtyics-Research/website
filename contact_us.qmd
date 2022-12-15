@@ -1,17 +1,20 @@
 ---
-title: "Work with us"
+title: "Get a chart"
 ---
-
-###### Let's work together.  
-
-###### Leave your details and we'll reach out soon.
-
 <br>
+
+###### Unconfuse your tribe. 
+###### Resonate with your people. 
+###### Be understood.
+###### One chart at a time.
+
+***
+
+###### Chart better. Lead better.
+
+***
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(knitr)
 include_url("https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16", height = "880px")
 ```
-
-
-

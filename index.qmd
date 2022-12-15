@@ -1,8 +1,9 @@
 ---
-title: "BetaDelta Analytics & Research"
+title: "Better Charts"
 format:
   html:
     theme: lux
+    page-layout: full
 ---
 
 <br>
@@ -11,7 +12,18 @@ format:
 
 <br>
 
-###### Data Visualization Specialties
+###### Helping influencers unconfuse their tribe through a clear story one chart at a time.
+
+<br>
+
+###### Unconfuse your tribe. 
+###### Resonate with your people. 
+###### Be understood.
+###### One chart at a time.
+
+<br>
+
+Data Visualization Specialties
 
 * Building charts and tables you can actually understand.
 
@@ -25,19 +37,7 @@ format:
 
 * Organizing data and reporting using Microsoft Excel.
 
-<br>
 
-###### Investment Manager Research & Performance Measurmenet
-
-* Providing investment manager research & performance measurement support.
-
-* Driving insight using specialized investment data platforms like:
-
-  * Morningstar Direct
-  * eVestment
-  * Strategic Insight: SIMFUND
-  * Zephyr StyleAdvisor
-  * *Proper account account provisioning required*
   
 
 

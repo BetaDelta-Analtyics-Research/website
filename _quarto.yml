@@ -9,11 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - DataViz.qmd
-      - mission.qmd  
       - about.qmd
       - contact_us.qmd
-      - Social.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/89757630/
+      - icon: twitter
+        href: https://twitter.com/BravoLimaDelta
+      - icon: reception-4
+        href: https://public.tableau.com/app/profile/brian.davidhizar
     logo: 'BetaDelta_thumb_black.png'
+     
   twitter-card: true
   google-analytics: "G-CE2VLG3CQL"
 

@@ -4,6 +4,8 @@ format:
   html:
     theme: lux
     page-layout: full
+    margin-header: |
+     [GET A CHART](https://betadelta-analtyics-research.github.io/website/contact_us.html)
 ---
 
 ##### Chart better. Lead better.
@@ -11,6 +13,10 @@ format:
 <br>
 
 ###### Get a chart that resonates with your people.
+
+<br>
+
+Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
 
 <br>
 

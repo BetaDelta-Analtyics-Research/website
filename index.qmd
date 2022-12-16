@@ -16,7 +16,7 @@ format:
 
 <br>
 
-###### Unconfuse your tribe. 
+###### Reach your audience.    
 ###### Resonate with your people. 
 ###### Be understood.
 ###### One chart at a time.
@@ -25,9 +25,9 @@ format:
 
 Data Visualization Specialties
 
-* Building charts and tables you can actually understand.
-
 * Creating data visualizations you are excited to share.
+
+* Building charts and tables you can actually understand.
 
 * Delivering situational awareness through Tableau/PowerBI dashboards.
 

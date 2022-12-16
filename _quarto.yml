@@ -28,6 +28,10 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 200px
 
 editor: visual
 

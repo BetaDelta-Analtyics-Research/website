@@ -1,5 +1,11 @@
 ---
 title: "Your Team"
+format:
+  html:
+    theme: lux
+    page-layout: full
+    margin-header: |
+     [GET A CHART](https://betadelta-analtyics-research.github.io/website/contact_us.html)
 ---
 
 ## Brian Davidhizar, CIPM

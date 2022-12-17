@@ -1,5 +1,11 @@
 ---
 title: "Get a chart"
+format:
+  html:
+    theme: lux
+    page-layout: full
+    margin-header: |
+     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 ---
 ***
 
@@ -8,6 +14,8 @@ title: "Get a chart"
 * Position yourself among the professionals in your sphere.
 
 * You don't need deep pockets to make a great impression or cause real impact.
+
+* [Reach out to us and get a chart now!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
 ***
 
@@ -22,7 +30,9 @@ title: "Get a chart"
 
 ***
 
+<!--
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(knitr)
 include_url("https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16", height = "880px")
 ```
+-->

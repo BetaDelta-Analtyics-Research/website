@@ -5,7 +5,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     [GET A CHART](https://betadelta-analtyics-research.github.io/website/contact_us.html)
+     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 ---
 
 ## Brian Davidhizar, CIPM

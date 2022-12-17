@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -71,6 +71,7 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="BetaDelta Analytics &amp; Research - Portfolio">
+<meta name="twitter:description" content="Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -95,33 +96,37 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./DataViz.html" aria-current="page">Portfolio</a>
+    <a class="nav-link active" href="./DataViz.html" aria-current="page">
+ <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">Your Team</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">Your Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact_us.html">Get a chart</a>
+    <a class="nav-link" href="./contact_us.html">
+ <span class="menu-text">Get a chart</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/company/89757630/"><i class="bi bi-linkedin" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/BravoLimaDelta"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://public.tableau.com/app/profile/brian.davidhizar"><i class="bi bi-reception-4" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -134,7 +139,7 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<p><a href="https://betadelta-analtyics-research.github.io/website/contact_us.html">GET A CHART</a></p>
+<p><a href="https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16">GET A CHART</a></p>
 </div></div>
         
     </div>
@@ -151,6 +156,7 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -159,20 +165,30 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 
 <section id="chart-better.-lead-better." class="level5">
 <h5 class="anchored" data-anchor-id="chart-better.-lead-better.">Chart better. Lead better.</h5>
-<p><br></p>
-<section id="get-a-chart-that-resonates-with-your-people." class="level6">
-<h6 class="anchored" data-anchor-id="get-a-chart-that-resonates-with-your-people.">Get a chart that resonates with your people.</h6>
-<p><br></p>
+<hr>
+<ul>
+<li><p>Don’t waste hours teaching yourself how to deliver effective data visualizations.</p></li>
+<li><p>Position yourself among the professionals in your sphere.</p></li>
+<li><p>You don’t need deep pockets to make a great impression or cause real impact.</p></li>
+<li><p><a href="https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16">Connect with us and get a chart now!</a></p></li>
+</ul>
+<hr>
 <p>Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.</p>
+<p>Connect with us on social.</p>
 <p><br></p>
 <div class="cell">
 <div class="cell-output-display">
-<p><img src="DataViz_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="600"></p>
+<p><img src="DataViz_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="750"></p>
+</div>
+</div>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="DataViz_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" width="750"></p>
 </div>
 </div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -217,7 +233,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -253,24 +286,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

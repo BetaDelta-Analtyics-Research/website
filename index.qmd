@@ -1,14 +1,12 @@
 ---
-title: "Better Charts"
+title: "Chart Better. Lead Better."
 format:
   html:
     theme: lux
     page-layout: full
+    margin-header: |
+     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 ---
-
-<br>
-
-##### Chart better. Lead better.
 
 <br>
 

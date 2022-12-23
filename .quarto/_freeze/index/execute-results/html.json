@@ -1,8 +1,10 @@
 {
-  "hash": "050863d7ef10028216b164ad2d75a321",
+  "hash": "3528297d844d23788471617c2f204842",
   "result": {
-    "markdown": "---\ntitle: \"BetaDelta Analytics & Research\"\nformat:\n  html:\n    theme: lux\n---\n\n\nThis is a Quarto website. It is currently under construction.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Chart Better. Lead Better.\"\nformat:\n  html:\n    theme: lux\n    page-layout: full\n    margin-header: |\n     <input type=\"button\" class=\"btn btn-danger\" onclick=\"location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';\" value=\"GET CHARTS\">\n---\n\n\n###### Helping leaders reach their audience through a clear story one chart at a time.\n\n<br>\n\n###### Reach your audience.\n###### Resonate with your people. \n###### Be understood.\n###### Build credibility.\n###### One chart at a time.\n\n<br>\n\n###### [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)\n\nYour message matters!\n\nSave time and effort by getting extra help communicating quantitative concepts through data visualization. Tell us what you're looking for and we'll tell you if we think we can deliver publication-ready content. If you've got the data, you can securely share it with us.  We can also try to track it down for you or create it outright. After delivery, pay what you think it's worth.\n\n**We love collaborating with clients like you:  influencers, marketers, copywriters, graphic designers, entrepreneurs, decision makers, etc. **\n\n## Portfolio\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=750}\n:::\n:::\n\n\n***\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=750}\n:::\n:::\n\n\n***\n\n## Data & Analytics Specialties\n\n* Partnering with clients to understand requirements and deliver great products.\n\n* Creating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.\n\n* Building charts and tables you can actually understand.\n\n* Delivering situational awareness through Tableau/PowerBI dashboards.\n\n* Accelerating important business conversations by leveraging data more powerfully. \n\n* Scaling data visualization and reporting programmatically using R, Python, & SQL.\n\n* Organizing data and reporting using Microsoft Excel.\n\n\n  \n\n\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

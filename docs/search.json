@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chart Better. Lead Better.",
     "section": "",
-    "text": "Helping influencers unconfuse their tribe through a clear story one chart at a time.\n\n\n\nReach your audience.\n\n\nResonate with your people.\n\n\nBe understood.\n\n\nOne chart at a time.\n\n\n\nConnect with us and get a chart now!\n\nData Visualization Specialties\n\nCreating data visualizations you are excited to share.\nBuilding charts and tables you can actually understand.\nDelivering situational awareness through Tableau/PowerBI dashboards.\nAccelerating important business conversations by leveraging data more powerfully.\nScaling data visualization and reporting programmatically using R, Python, & SQL.\nOrganizing data and reporting using Microsoft Excel."
+    "text": "Helping leaders reach their audience through a clear story one chart at a time.\n\n\n\nReach your audience.\n\n\nResonate with your people.\n\n\nBe understood.\n\n\nBuild credibility.\n\n\nOne chart at a time.\n\n\n\nPartner with us to create the bandwidth you need!\n\nData Visualization Specialties\n\nCreating data visualizations you are excited to share.\nBuilding charts and tables you can actually understand.\nDelivering situational awareness through Tableau/PowerBI dashboards.\nAccelerating important business conversations by leveraging data more powerfully.\nScaling data visualization and reporting programmatically using R, Python, & SQL.\nOrganizing data and reporting using Microsoft Excel."
   },
   {
     "objectID": "about.html",
@@ -37,7 +37,7 @@
   {
     "objectID": "contact_us.html",
     "href": "contact_us.html",
-    "title": "Get a chart",
+    "title": "Get Charts",
     "section": "",
     "text": "Don’t waste hours teaching yourself how to deliver effective data visualizations.\nPosition yourself among the professionals in your sphere.\nYou don’t need deep pockets to make a great impression or cause real impact.\nReach out to us and get a chart now!\n\n\n\nUnconfuse your tribe.\n\n\nResonate with your people.\n\n\nBe understood.\n\n\nOne chart at a time.\n\n\n\nChart better. Lead better."
   },
@@ -46,7 +46,7 @@
     "href": "DataViz.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Chart better. Lead better.\n\n\nDon’t waste hours teaching yourself how to deliver effective data visualizations.\nPosition yourself among the professionals in your sphere.\nYou don’t need deep pockets to make a great impression or cause real impact.\nConnect with us and get a chart now!\n\n\nCollaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.\nConnect with us on social."
+    "text": "Chart better. Lead better.\n\n\nDon’t waste hours teaching yourself how to deliver effective data visualizations.\nPosition yourself among the professionals in your sphere.\nYou don’t need deep pockets to make a great impression or cause real impact.\nPartner with us to create the bandwidth you need!\n\n\nCollaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub."
   },
   {
     "objectID": "contact_us.html#engage-with-us-on-social",
@@ -68,5 +68,19 @@
     "title": "Our Mission",
     "section": "Mission",
     "text": "Mission\nWe provide simple, aesthetic, easy-to-understand data visualizations that empower leaders to engage, influence, and grow their tribe."
+  },
+  {
+    "objectID": "index.html#portfolio",
+    "href": "index.html#portfolio",
+    "title": "Chart Better. Lead Better.",
+    "section": "Portfolio",
+    "text": "Portfolio"
+  },
+  {
+    "objectID": "index.html#data-analytics-specialties",
+    "href": "index.html#data-analytics-specialties",
+    "title": "Chart Better. Lead Better.",
+    "section": "Data & Analytics Specialties",
+    "text": "Data & Analytics Specialties\n\nPartnering with clients to understand requirements and deliver great products.\nCreating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.\nBuilding charts and tables you can actually understand.\nDelivering situational awareness through Tableau/PowerBI dashboards.\nAccelerating important business conversations by leveraging data more powerfully.\nScaling data visualization and reporting programmatically using R, Python, & SQL.\nOrganizing data and reporting using Microsoft Excel."
   }
 ]

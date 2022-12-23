@@ -1,11 +1,11 @@
 ---
-title: "Get a chart"
+title: "Get Charts"
 format:
   html:
     theme: lux
     page-layout: full
     margin-header: |
-     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 ***
 

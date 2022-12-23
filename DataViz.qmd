@@ -5,7 +5,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 
 ##### Chart better. Lead better.
@@ -17,13 +17,11 @@ format:
 
 * You don't need deep pockets to make a great impression or cause real impact.
 
-* [Connect with us and get a chart now!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+* ###### [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
 ***
 
 Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
-
-Connect with us on social.
 
 <br>
 

@@ -5,29 +5,124 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     [GET A CHART](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 
-<br>
-
-###### Helping influencers unconfuse their tribe through a clear story one chart at a time.
+###### Helping leaders reach their audience through a clear story one chart at a time.
 
 <br>
 
-###### Reach your audience.    
+###### Reach your audience.
 ###### Resonate with your people. 
 ###### Be understood.
+###### Build credibility.
 ###### One chart at a time.
 
 <br>
 
-###### [Connect with us and get a chart now!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+###### [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
-<br>
+Your message matters!
 
-Data Visualization Specialties
+Save time and effort by getting extra help communicating quantitative concepts through data visualization. Tell us what you're looking for and we'll tell you if we think we can deliver publication-ready content. If you've got the data, you can securely share it with us.  We can also try to track it down for you or create it outright. After delivery, pay what you think it's worth.
 
-* Creating data visualizations you are excited to share.
+**We love collaborating with clients like you:  influencers, marketers, copywriters, graphic designers, entrepreneurs, decision makers, etc. **
+
+## Portfolio
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
+library(tidyverse)
+library(readxl)
+library(ggrepel)
+library(geomtextpath)
+library(tidyquant)
+library(tidyverse)
+
+colorp <- c("#252525", "#969696", "#a50f15")
+
+sp500_prices  <- tq_get("^GSPC", get = "stock.prices", from = " 1928-01-01")
+
+sp500_monthly <- sp500_prices %>%
+  group_by(symbol) %>%
+  tq_transmute(select = adjusted, mutate_fun = to.monthly, indexAt = "lastof")
+
+sp500_returns <- tq_get("^GSPC", get  = "stock.prices", from = "1928-01-01", to   = "2022-11-30") %>%
+  tq_transmute(adjusted, periodReturn, period = "monthly", col_rename = "sp500.returns")
+
+sp500_xts <- xts(sp500_returns$sp500.returns, order.by=sp500_returns$date)
+
+sp500_40 <- rollapply(sp500_xts, width = 480, FUN = Return.annualized, fill = 0) 
+names(sp500_40) <- "S&P 500"
+sp500_40 <- sp500_40[480:length(sp500_40)]
+
+
+ggplot(sp500_40, aes(x=index(sp500_40), y=sp500_40$`S&P 500`*100)) + 
+  geom_line() +
+  geom_hline(yintercept=7, linetype=2, color=colorp[3]) +
+  geom_text(aes(index(sp500_40)[1],7),label = '7% growth', vjust = -1, hjust=.3, color=colorp[3], family='serif', size=4) +
+  geom_hline(yintercept=9, linetype=2, color=colorp[3]) +
+  geom_text(aes(index(sp500_40)[1],9),label = '9% growth', vjust = -1, hjust=.3, color=colorp[3], family='serif', size=4) +
+  labs(title = "S&P 500 Frequently Achieved 7% Annualized Growth Over 40-Year Periods",
+       subtitle = "S&P 500 Rolling 40-Year Returns Annualized",
+       caption = "Data visaulization by BetaDelta Analytics & Research
+                  \n Source: Yahoo Finance Historical Data: Adjusted Prices for ^GSPC
+                  \n R package used for gathering data and annualizing returns: tidyquant") + 
+  xlab("") +
+  ylab("") +
+  scale_y_continuous(labels = scales::percent_format(scale = 1)) +
+  theme_classic() +
+  theme(plot.title=element_text(size=16),
+        plot.caption=element_text(size=8, color=colorp[1]),
+        axis.title.x=element_text(size=14, hjust = 0),
+        axis.title.y=element_blank(), #element_text(size=14),
+        axis.text.y = element_text(size=10, hjust = 0), #element_blank(),  #remove y axis labels
+        axis.ticks.y= element_blank(),
+        axis.line.y = element_blank(),
+        text=element_text(family = "serif") #remove y axis ticks
+  )
+```
+
+***
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
+
+df <- read_xlsx("Growth of 10 Dollars Table Seven.xlsx")
+
+df_points <- rbind(head(df,1), df[120,], df[240,], df[360,], tail(df,1))
+
+colorp <- c("#252525", "#969696", "#a50f15")
+
+ggplot(df, aes(date, value)) + 
+  geom_textline(label = "$10  a day invested monthly @ 7% annual growth.", 
+                linewidth = 1, color = colorp[1], vjust = 1.5, hjust = 0.75, family = "serif", size = 5) +
+  geom_point(data = df_points, aes(date, value), size = 4, color = colorp[3], family = "serif") +
+  geom_text_repel(data = df_points, aes(label = scales::dollar(round(value,0))), 
+            size = 4, color = colorp[1], direction="both", vjust = -1.5, hjust = 1.2, point.padding = 10, 
+            family = "serif") + 
+  labs(title = "What habit can you change to save $10 a day?",
+       subtitle = "Financial coaching can help you change your life. \n7% annual return on investment is no guarantee, but totally doable.",
+       caption = "\n Data visaulization by BetaDelta Analytics & Research") + 
+  xlab(" \n 40 years starting New Year's 2023.  You can do it.") +
+  ylab("") +
+  theme_classic() +
+  theme(plot.title=element_text(size=16),
+        plot.caption=element_text(size=8, color=colorp[1]),
+        axis.title.x=element_text(size=14, hjust = 0),
+        axis.title.y=element_blank(), #element_text(size=14),
+        axis.text.y=element_blank(),  #remove y axis labels
+        axis.ticks.y=element_blank(),
+        axis.line.y = element_blank(),
+        text=element_text(family = "serif") #remove y axis ticks
+        )
+```
+
+***
+
+## Data & Analytics Specialties
+
+* Partnering with clients to understand requirements and deliver great products.
+
+* Creating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.
 
 * Building charts and tables you can actually understand.
 

@@ -29,9 +29,9 @@ format:
     css: styles.css
     toc: true
     grid:
-      sidebar-width: 300px
-      body-width: 900px
-      margin-width: 200px
+      sidebar-width: 150px
+      body-width: 1200px
+      margin-width: 150px
 
 editor: visual
 

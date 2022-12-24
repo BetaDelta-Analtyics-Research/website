@@ -6,6 +6,10 @@ format:
     page-layout: full
     margin-header: |
      <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+    grid:
+      sidebar-width: 100px
+      body-width: 1200px
+      margin-width: 100px
 ---
 
 ###### Helping leaders reach their audience through a clear story one chart at a time.
@@ -27,6 +31,12 @@ Save time and effort by getting extra help communicating quantitative concepts t
 We love collaborating with clients like you:  influencers, marketers, copywriters, graphic designers, entrepreneurs, non-profit executives, business leaders, public administrators, decision makers, board members, etc.
 
 ## Portfolio
+
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+![](camaro.png)
+
+***
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 library(tidyverse)

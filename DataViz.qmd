@@ -25,6 +25,12 @@ Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
 
 <br>
 
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+![](camaro.png)
+
+***
+
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 library(tidyverse)
 library(readxl)

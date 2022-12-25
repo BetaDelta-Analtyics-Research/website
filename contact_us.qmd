@@ -4,8 +4,6 @@ format:
   html:
     theme: lux
     page-layout: full
-    margin-header: |
-     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 ***
 
@@ -13,11 +11,11 @@ format:
 
 * Position yourself among the professionals in your sphere.
 
-* You don't need deep pockets to make a great impression or cause real impact.
+* You don't need deep pockets to make a great impression.
 
 * [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
-<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
 
 ***
 

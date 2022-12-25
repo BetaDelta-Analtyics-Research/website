@@ -15,7 +15,7 @@ format:
 
 * Position yourself among the professionals in your sphere.
 
-* You don't need deep pockets to make a great impression or cause real impact.
+* You don't need deep pockets to make a great impression.
 
 * ###### [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
@@ -23,7 +23,7 @@ format:
 
 Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
 
-<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
 
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 

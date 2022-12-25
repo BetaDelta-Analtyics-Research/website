@@ -17,11 +17,14 @@ format:
 
 * [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
+<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+
 ***
 
-###### Unconfuse your tribe. 
+###### Reach your audience.
 ###### Resonate with your people. 
 ###### Be understood.
+###### Build credibility.
 ###### One chart at a time.
 
 ***

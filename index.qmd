@@ -30,7 +30,9 @@ Save time and effort by getting extra help communicating quantitative concepts t
 
 We love collaborating with clients like you:  influencers, marketers, copywriters, graphic designers, business leaders, investment advisors, entrepreneurs, non-profit executives, public administrators, insurance professionals, researchers, etc.
 
-<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
+
+<input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
 
 ## Portfolio
 

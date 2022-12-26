@@ -12,6 +12,9 @@ format:
       margin-width: 100px
 ---
 
+::: {.grid}
+
+::: {.g-col-8}
 ###### Reach your audience through a clear story.
 
 ###### Resonate with your people.
@@ -21,10 +24,13 @@ format:
 ###### Build credibility.
 
 ###### One chart at a time.
+:::
 
-![](https://cdn.pixabay.com/photo/2014/11/28/11/04/textile-548716_960_720.jpg)
+::: {.g-col-4}
+![](https://cdn.pixabay.com/photo/2014/11/28/11/04/textile-548716_960_720.jpg){width=65% fig-align="right"}
+:::
 
-------------------------------------------------------------------------
+:::
 
 ## Save time and effort.
 

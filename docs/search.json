@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chart Better. Lead Better.",
     "section": "",
-    "text": "Helping leaders reach their audience through a clear story one chart at a time.\n\n\n\nReach your audience.\n\n\nResonate with your people.\n\n\nBe understood.\n\n\nBuild credibility.\n\n\nOne chart at a time.\n\n\n\nPartner with us to create the bandwidth you need!\n\nData Visualization Specialties\n\nCreating data visualizations you are excited to share.\nBuilding charts and tables you can actually understand.\nDelivering situational awareness through Tableau/PowerBI dashboards.\nAccelerating important business conversations by leveraging data more powerfully.\nScaling data visualization and reporting programmatically using R, Python, & SQL.\nOrganizing data and reporting using Microsoft Excel."
+    "text": "::: {.grid}\n::: {.g-col-8} ###### Reach your audience through a clear story."
   },
   {
     "objectID": "about.html",

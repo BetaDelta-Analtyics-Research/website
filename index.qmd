@@ -12,27 +12,29 @@ format:
       margin-width: 100px
 ---
 
-###### Helping leaders reach their audience through a clear story one chart at a time.
-
-<br>
-
-###### Reach your audience.
+###### Reach your audience through a clear story.
 ###### Resonate with your people. 
-###### Be understood.
-###### Build credibility.
+###### Be understood. 
+###### Build credibility. 
 ###### One chart at a time.
 
-<br>
+------------------------------------------------------------------------
 
-###### [Partner with us to create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+## Save time and effort.
 
-Save time and effort by getting extra help communicating quantitative concepts through data visualization. Tell us what you're looking for and we'll deliver publication-ready content. If you've got the data, you can securely share it with us.  We can also try to track it down for you or create it outright. After delivery, pay what you think it's worth.
+Get help communicating with data visualization. 
 
-We love collaborating with clients like you:  influencers, marketers, copywriters, graphic designers, business leaders, investment advisors, entrepreneurs, non-profit executives, public administrators, insurance professionals, researchers, etc.
+1. Tell us what you're looking for and we'll deliver publication-ready content. 
+2. Securely collaborate through Google Drive, Microsoft Teams, or Github. 
+3. After delivery, pay what you think it's worth.
 
-<input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
+An ideal solution for business leaders, influencers, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, etc.
 
-<input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+<i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+
+------------------------------------------------------------------------
 
 ## Portfolio
 
@@ -40,7 +42,7 @@ This chart is better visualized on [Tableau Public](https://public.tableau.com/v
 
 ![](camaro.png)
 
-***
+------------------------------------------------------------------------
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 library(tidyverse)
@@ -94,7 +96,7 @@ ggplot(sp500_40, aes(x=index(sp500_40), y=sp500_40$`S&P 500`*100)) +
   )
 ```
 
-***
+------------------------------------------------------------------------
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 
@@ -128,25 +130,20 @@ ggplot(df, aes(date, value)) +
         )
 ```
 
-***
+------------------------------------------------------------------------
 
 ## Data & Analytics Specialties
 
-* Partnering with clients to understand requirements and deliver great products.
+-   Partnering with clients to understand requirements and deliver great products.
 
-* Creating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.
+-   Creating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.
 
-* Building charts and tables you can actually understand.
+-   Building charts and tables you can actually understand.
 
-* Delivering situational awareness through Tableau/PowerBI dashboards.
+-   Delivering situational awareness through Tableau/PowerBI dashboards.
 
-* Accelerating important business conversations by leveraging data more powerfully. 
+-   Accelerating important business conversations by leveraging data more powerfully.
 
-* Scaling data visualization and reporting programmatically using R, Python, & SQL.
+-   Scaling data visualization and reporting programmatically using R, Python, & SQL.
 
-* Organizing data and reporting using Microsoft Excel.
-
-
-  
-
-
+-   Organizing data and reporting using Microsoft Excel.

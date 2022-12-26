@@ -7,17 +7,25 @@ format:
 ---
 ***
 
+Get help communicating with data visualization.
+
+1.  Tell us what you're looking for and we'll deliver publication-ready content.
+2.  Securely collaborate through Google Drive, Microsoft Teams, or Github.
+3.  After delivery, pay what you think it's worth.
+
+An ideal solution for business leaders, influencers, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, etc.
+
+<i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
+
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+
+* [Create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+
 * Don't waste hours teaching yourself how to deliver effective data visualizations.
 
 * Position yourself among the professionals in your sphere.
 
 * You don't need deep pockets to make a great impression.
-
-* [Create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
-
-<i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
-
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
 
 ***
 

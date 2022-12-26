@@ -12,7 +12,7 @@ format:
       margin-width: 100px
 ---
 
-###### Reach your audience through a clear story.
+###### Reach your audience.
 
 ###### Resonate with your people.
 

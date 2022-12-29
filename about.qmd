@@ -8,7 +8,7 @@ format:
      <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 
-## Brian Davidhizar, CIPM
+## Brian Davidhizar, MS, CIPM
 
 ### Bio
 

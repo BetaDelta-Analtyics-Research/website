@@ -13,7 +13,7 @@ Get help communicating with data visualization.
 2.  Securely collaborate through Google Drive, Microsoft Teams, or Github.
 3.  After delivery, pay what you think it's worth.
 
-An ideal solution for business leaders, influencers, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, etc.
+An ideal solution for business leaders, expanding teams, influencers, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, etc.
 
 <i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
 

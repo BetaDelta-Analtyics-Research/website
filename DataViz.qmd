@@ -17,7 +17,7 @@ Position yourself among the professionals in your sphere.
 
 You don't need deep pockets.
 
-Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
+Securely collaborate through Google Drive, Microsoft Teams, and GitHub.
 
 ***
 
@@ -31,11 +31,25 @@ Collaboration is easy. We leverage Google Drive, Microsoft Teams, and GitHub.
 
 ## Charts
 
-This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
+
+![](CCCM.png)
+
+<br>
+
+***
+
+<br>
+
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
 
 ![](camaro.png)
 
+<br>
+
 ***
+
+<br>
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 library(tidyverse)
@@ -89,7 +103,11 @@ ggplot(sp500_40, aes(x=index(sp500_40), y=sp500_40$`S&P 500`*100)) +
   )
 ```
 
+<br>
+
 ***
+
+<br>
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
 

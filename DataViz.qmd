@@ -19,9 +19,10 @@ You don't need deep pockets.
 
 Securely collaborate through Google Drive, Microsoft Teams, and GitHub.
 
-***
+<br>
 
-###### [Create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
+##### Create the bandwidth you need.
+***
 
 <i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
 
@@ -31,7 +32,11 @@ Securely collaborate through Google Drive, Microsoft Teams, and GitHub.
 
 ## Charts
 
+<br>
+
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
+
+<br>
 
 ![](CCCM.png)
 
@@ -42,6 +47,8 @@ This chart is better visualized on [Tableau Public](https://public.tableau.com/v
 <br>
 
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
+
+<br>
 
 ![](camaro.png)
 

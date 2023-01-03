@@ -12,31 +12,45 @@ format:
       margin-width: 100px
 ---
 
-###### Tell your data story.
+###### Understand your business.
 
-###### Capture your audience.
+###### Form your data story.
 
-###### Build credibility.
+###### Communicate with stakeholders.
 
 ###### Be understood.
 
-###### Resonate with your people.
+###### Build credibility.
+
+###### Create bandwidth.
+
+###### Focus on relationships.
 
 ![](pexels-alex-andrews-1203808.jpg)
 
-## Creating visuals & business intelligence. 
+## Business intelligence for the busy leader. 
 
-Flooded with text, distracted readers get bored and drift toward the simple or intriguing.  You can hold their attention by including the right visuals in the right way at the right time. Good presentation of your data story can make or break your leadership credibility.  We can help you chart the right path forward by providing simple visualizations that fit your narrative or through business intelligence dashboards that monitor your business environment. 
+Business is dynamic.  Even when it's stable, it can be hard to pin down.  We all agree it's hard to understand your own business operations and competitive landscape.  
 
-## Providing  bandwidth.
+Having trouble building a good picture of what's going on?  Do you even have the time to do it?  
+
+Do you have the bandwidth you need to remain a dependable leader?  
+
+Are you maintaining the right level of influence when you communicate with clients or key stakeholders?
+
+Good presentation of your data story can make or break your leadership credibility.  Sending more emails packed with text won't have the impact you're looking for.  We can help you chart the right path forward by providing simple visualizations that fit your narrative.  
+
+## We provide bandwidth so you can focus on relationships.
 
 It takes time and effort to develop charts that resonate, appeal, and correspond to reality.  Don't spin out. We can multiply your time and help you communicate better with data visualization.   
 
-1.  Tell us what you're looking for and we'll deliver publication-ready content.
-2.  Securely collaborate through Google Drive, Microsoft Teams, or Github.
-3.  After delivery, pay what you think it's worth.
+We can develop business intelligence dashboards and reporting that help you monitor your business environment or integrate alongside a team already dedicated to this purpose. 
 
-We help business leaders, expanding teams, influencers, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, etc.
+1.  Tell us what you're looking for.
+2.  Onboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.
+3.  Work with us part-time, asynchronously.
+
+We help business leaders, expanding teams, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc.
 
 <i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 

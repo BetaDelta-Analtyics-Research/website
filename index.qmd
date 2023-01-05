@@ -16,7 +16,7 @@ format:
 
 ###### Form your data story.
 
-###### Communicate with stakeholders.
+###### Influence stakeholders.
 
 ###### Be understood.
 
@@ -30,7 +30,7 @@ format:
 
 ## Business intelligence for the busy leader. 
 
-Business is dynamic.  Even when it's stable, it can be hard to pin down.  We all agree it's hard to understand your own business operations and competitive landscape.  
+Business is dynamic.  Even when it's stable, it can be hard to pin down.  
 
 Having trouble building a good picture of what's going on?  Do you even have the time to do it?  
 

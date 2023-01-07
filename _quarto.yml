@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - DataViz.qmd
-      - about.qmd
+      - href: profile.qmd
+        text: Your Team
       - contact_us.qmd
     right:
       - icon: linkedin

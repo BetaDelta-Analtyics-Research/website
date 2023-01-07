@@ -1,0 +1,98 @@
+---
+title: "Brian Davidhizar, M.S., CIPM"
+image: Ramsey Headshot.jfif
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/BravoLimaDelta
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/briandavidhizar/
+    - icon: github
+      text: Github
+      href: https://github.com/Bravo-Lima-Delta
+---
+
+I am an analytics professional with an investments, finance, & market research background. I am also a U.S. Marine Corps Veteran. I have 12 years of experience at premier, global investment manager T. Rowe Price and currently work full-time for Ramsey Solutions as a data analyst in the digital marketing and real estate business analytics space.
+
+------------------------------------------------------------------------
+
+### Professional Credentials
+
+###### Certified Tableau Desktop Specialist
+
+Tableau
+
+###### Certified Data Science Professional
+
+DataCamp
+
+###### Certificate in Investment Performance Measurement
+
+CFA Institute
+
+------------------------------------------------------------------------
+
+### Academic Credentials
+
+#### Master of Science
+
+###### Data Science (current candidate)
+
+|     Eastern University
+
+###### Leadership
+
+|     Norwich University
+
+###### Accounting & Financial Management
+
+|     University of Maryland Global Campus
+
+#### Graduate Certificate
+
+###### Computational Finance
+
+|     University of Washington
+
+#### Bachelor of Science
+
+###### International Business
+
+|     Messiah University
+
+#### Associate of Arts
+
+###### Spanish
+
+|     Defense Language Institute
+
+------------------------------------------------------------------------
+
+### Professional Experience
+
+###### Ramsey Solutions
+
+|     Data Analyst II
+
+###### T. Rowe Price Associates, Inc.
+
+|     Senior Manager, Data Analytics, VP
+|     Product Analyst, AVP
+|     Senior Market Research Analyst
+|     Quantitative Investment Performance Analyst
+|     Senior Portfolio Accountant
+
+###### Arthur Bell CPAs (now part of Cohen & Company)
+
+|     Hedge Fund Audit Staff
+
+###### PricewaterhouseCoopers LLP
+
+|     Assurance Associate
+
+###### United States Marine Corps
+
+|     Sergeant, Spanish CryptoLinguist, Signals Intelligence

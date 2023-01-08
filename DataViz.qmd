@@ -41,6 +41,8 @@ Here are some examples of visualizations we've built.
 
 #### Viz 1
 
+Refer to this [blog post](https://betadelta-analytics-research.github.io/website/posts/kill%20college%20cc/) for more context.
+
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
 
 <br>
@@ -53,6 +55,8 @@ This chart is better visualized on [Tableau Public](https://public.tableau.com/v
 #### Viz 2
 
 <br>
+
+Refer to this [blog post](https://betadelta-analytics-research.github.io/website/posts/camaro/) for more context.
 
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
 

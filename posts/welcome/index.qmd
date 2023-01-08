@@ -1,0 +1,16 @@
+---
+title: "Welcome To The Blog"
+author: "Brian Davidhizar"
+date: "2022-12-20"
+categories: [Welcome]
+---
+
+This is the first post of the BetaDelta blog. Welcome!
+
+We hope you find some great resources and insight here.
+
+Basically, this is what my desk looks like (minus the window and cinderblock wall).  I always have coffee.
+
+Have fun exploring the blog content!  Please reach out if we can help.  We're here for you!
+
+![](thumbnail.jpg)

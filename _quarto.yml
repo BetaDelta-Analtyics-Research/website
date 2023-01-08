@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - DataViz.qmd
+      - href: blog_page.qmd
+        text: Blog
       - href: profile.qmd
         text: Your Team
       - contact_us.qmd

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>BetaDelta Analytics &amp; Research - Portfolio</title>
+<title>BetaDelta Analytics &amp; Research - BetaDelta Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,6 +60,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CE2VLG3CQL"></script>
 
 <script type="text/javascript">
@@ -68,11 +99,12 @@ gtag('js', new Date());
 gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="BetaDelta Analytics &amp; Research - Portfolio">
-<meta name="twitter:description" content="Don’t waste hours teaching yourself how to deliver effective data visualizations.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="BetaDelta Analytics &amp; Research - BetaDelta Blog">
+<meta name="twitter:image" content="./posts/welcome/thumbnail.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -100,11 +132,11 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./DataViz.html" aria-current="page">
+    <a class="nav-link" href="./DataViz.html">
  <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog_page.html">
+    <a class="nav-link active" href="./blog_page.html" aria-current="page">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -142,23 +174,15 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<p><input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS"></p>
-</div></div>
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#charts" id="toc-charts" class="nav-link active" data-scroll-target="#charts">Charts</a></li>
-  </ul>
-</nav>
-    </div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Saving &amp; Investing">Saving &amp; Investing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Welcome">Welcome <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Portfolio</h1>
+<h1 class="title">BetaDelta Blog</h1>
 </div>
 
 
@@ -173,55 +197,77 @@ gtag('config', 'G-CE2VLG3CQL', { 'anonymize_ip': true});
 
 </header>
 
-<section id="chart-better.-lead-better." class="level5">
-<h5 class="anchored" data-anchor-id="chart-better.-lead-better.">Chart better. Lead better.</h5>
-<hr>
-<p>Don’t waste hours teaching yourself how to deliver effective data visualizations.</p>
-<p>Position yourself among the professionals in your sphere.</p>
-<p>You don’t need deep pockets.</p>
-<p>Onboard us with your team or securely collaborate through Google Drive, Microsoft Teams, and GitHub.</p>
-<p><br></p>
-</section>
-<section id="we-provide-bandwidth-so-you-can-focus-on-relationships." class="level5">
-<h5 class="anchored" data-anchor-id="we-provide-bandwidth-so-you-can-focus-on-relationships.">We provide bandwidth so you can focus on relationships.</h5>
-<hr>
-<p><i class="bi bi-graph-up"></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS"></p>
-<p><i class="bi bi-calendar-week-fill"></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT"></p>
-<hr>
-</section>
-<section id="charts" class="level2">
-<h2 class="anchored" data-anchor-id="charts">Charts</h2>
-<p><br></p>
-<p>This chart is better visualized on <a href="https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">Tableau Public</a> in full-screen mode.</p>
-<p><br></p>
-<p><img src="CCCM.png" class="img-fluid"></p>
-<p><br></p>
-<hr>
-<p><br></p>
-<p>This chart is better visualized on <a href="https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">Tableau Public</a> in full-screen mode.</p>
-<p><br></p>
-<p><img src="camaro.png" class="img-fluid"></p>
-<p><br></p>
-<hr>
-<p><br></p>
-<div class="cell">
-<div class="cell-output-display">
-<p><img src="DataViz_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="750"></p>
-</div>
-</div>
-<p><br></p>
-<hr>
-<p><br></p>
-<div class="cell">
-<div class="cell-output-display">
-<p><img src="DataViz_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" width="750"></p>
-</div>
-</div>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Saving &amp; Investing" data-listing-date-sort="1671861600000" data-listing-file-modified-sort="1673185514862" data-listing-reading-time-sort="2.03">
+<a href="./posts/10 a day/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/10 a day/10 a day.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+$10 per Day
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Saving &amp; Investing'); return false;">
+Saving &amp; Investing
+</div>
+</div>
+<div class="card-text listing-description">
+Could you save $10 a day?
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brian Davidhizar
+</div>
+<div class="listing-date">
+Dec 24, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Welcome" data-listing-date-sort="1671516000000" data-listing-file-modified-sort="1673185248632" data-listing-reading-time-sort="0.275">
+<a href="./posts/welcome/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/welcome/thumbnail.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Welcome To The Blog
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Welcome'); return false;">
+Welcome
+</div>
+</div>
+<div class="card-text listing-description">
+This is the first post of the BetaDelta blog. Welcome!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brian Davidhizar
+</div>
+<div class="listing-date">
+Dec 20, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,0 +1,16 @@
+{
+  "hash": "ab013920c38d900b3b6fc1217b40174c",
+  "result": {
+    "markdown": "---\ntitle: \"$10 per Day\"\nauthor: \"Brian Davidhizar\"\ndate: \"2022-12-24\"\ncategories: [Saving & Investing]\nimage: \"10 a day.png\"\n---\n\n\nCould you save $10 a day?\n\n#### What habit could you change to save \\$10 a day?\n\n<br>\n\n###### The power of compounding\n\nThe power of compounding is immense! If you would save \\$10 a day and invest it at the end of each month for 40 years, and if that investment would grow at 7% annually, this is what how much wealth you would build.\n\n<br>\n\n###### financial coaching\n\nWorking with a financial coach can help you change your spending habits so that you can turn this into a reality. It's not impossible!\n\n<br>\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=600}\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -22,5 +22,17 @@
   },
   "profile.qmd": {
     "profile.html": "fd7d036d"
+  },
+  "blog_page.qmd": {
+    "blog_page.html": "ef799b04"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "a551da53"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "7c3068da"
+  },
+  "posts/10 a day/index.qmd": {
+    "index.html": "5d0545a9"
   }
 }

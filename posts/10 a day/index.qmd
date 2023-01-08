@@ -1,0 +1,73 @@
+---
+title: "$10 per Day"
+author: "Brian Davidhizar"
+date: "2022-12-24"
+categories: [Saving & Investing]
+image: "10 a day.png"
+---
+
+Could you save $10 a day?
+
+#### What habit could you change to save \$10 a day?
+
+<br>
+
+###### The power of compounding
+
+The power of compounding is immense! If you would save \$10 a day and invest it at the end of each month for 40 years, and if that investment would grow at 7% annually, this is what how much wealth you would build.
+
+<br>
+
+###### financial coaching
+
+Working with a financial coach can help you change your spending habits so that you can turn this into a reality. It's not impossible!
+
+<br>
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5, fig.width=6, dev = "png", dpi=100}
+library(tidyverse)
+library(readxl)
+library(ggrepel)
+library(geomtextpath)
+library(tidyquant)
+library(tidyverse)
+library(gridExtra)
+
+df <- read_xlsx("Growth of 10 Dollars Table Seven.xlsx")
+
+df_points <- rbind(head(df,1), df[120,], df[240,], df[360,], tail(df,1))
+
+colorp <- c("#252525", "#969696", "#a50f15")
+
+plt1 <- ggplot(df, aes(date, value)) + 
+  geom_textline(label = "$10  a day invested monthly @ 7% annual growth.", 
+                linewidth = 1, color = colorp[1], vjust = 1.5, hjust = 0.75, family = "serif", size = 5) +
+  geom_point(data = df_points, aes(date, value), size = 4, color = colorp[3], family = "serif") +
+  geom_text_repel(data = df_points, aes(label = scales::dollar(round(value,0))), 
+            size = 4, color = colorp[1], direction="both", vjust = -1.5, hjust = 1.2, point.padding = 10, 
+            family = "serif") + 
+  labs(title = "What habit can you change to save $10 a day?",
+       subtitle = "Financial coaching can help you change your life. \n7% annual return on investment is no guarantee, but totally doable.",
+       caption = "\n Data visaulization by BetaDelta Analytics & Research") + 
+  xlab(" \n 40 years starting New Year's 2023.  You can do it.") +
+  ylab("") +
+  theme_classic() +
+  theme(plot.title=element_text(size=16),
+        plot.caption=element_text(size=8, color=colorp[1]),
+        axis.title.x=element_text(size=14, hjust = 0),
+        axis.title.y=element_blank(), #element_text(size=14),
+        axis.text.y=element_blank(),  #remove y axis labels
+        axis.ticks.y=element_blank(),
+        axis.line.y = element_blank(),
+        text=element_text(family = "serif") #remove y axis ticks
+        )
+
+grid.arrange(plt1, nrow=1)
+
+```
+
+```{r, include = FALSE, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5, fig.width=6, dev = "png", dpi=100}
+png(file="10 a day.png", width=500, height=500)
+grid.arrange(plt1, nrow=1)
+dev.off()
+```

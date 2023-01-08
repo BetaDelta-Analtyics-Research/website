@@ -5,7 +5,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 
 ##### Chart better. Lead better.
@@ -21,44 +21,57 @@ Onboard us with your team or securely collaborate through Google Drive, Microsof
 
 <br>
 
-##### We provide bandwidth so you can focus on relationships.
+##### Providing bandwidth so you can focus on relationships.
 ***
 
-<i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
-
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get Charts">
 
 ***
+
+<br>
 
 ## Charts
 
 <br>
 
-This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
+Here are some examples of visualizations we've built.
+
+<br>
+<br>
+
+#### Viz 1
+
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
 
 <br>
 
-![](CCCM.png)
+![](CCCM.png){fig-align="center"}
+
+<br>
+<br>
+
+#### Viz 2
 
 <br>
 
-***
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
 
 <br>
 
-This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode.
+![](camaro.png){fig-align="center"}
+
+<br>
+<br>
+
+#### Viz 3
 
 <br>
 
-![](camaro.png)
+Refer to this [blog post](https://betadelta-analytics-research.github.io/website/posts/10%20a%20day/) for more context.
 
 <br>
 
-***
-
-<br>
-
-```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, fig.align='center', dev = "png", dpi=100}
 library(tidyverse)
 library(readxl)
 library(ggrepel)
@@ -111,12 +124,17 @@ ggplot(sp500_40, aes(x=index(sp500_40), y=sp500_40$`S&P 500`*100)) +
 ```
 
 <br>
+<br>
 
-***
+#### Viz 4
 
 <br>
 
-```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, dev = "png", dpi=100}
+Refer to this [blog post](https://betadelta-analytics-research.github.io/website/posts/10%20a%20day/) for more context.
+
+<br>
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5.5, fig.width=7.5, fig.align='center', dev = "png", dpi=100}
 
 df <- read_xlsx("Growth of 10 Dollars Table Seven.xlsx")
 

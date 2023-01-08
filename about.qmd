@@ -5,7 +5,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
 ---
 
 ## Brian Davidhizar, MS, CIPM

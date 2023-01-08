@@ -1,0 +1,29 @@
+---
+title: "Pay Cash for Your New Car"
+author: "Brian Davidhizar"
+date: "2022-12-24"
+categories: [Debt, Saving & Investing]
+image: "camaro.png"
+---
+
+Don't finance your new Camaro.
+
+<br>
+
+[Back to Blog](https://betadelta-analytics-research.github.io/website/blog_page.html)
+
+<br>
+
+#### Need to buy a car?
+
+<br>
+
+###### Don't finance it.
+
+These two charts show the difference between financing and paying cash for a new car.  In this case, we're visualizing specifics related to purchasing a new 2022 Chevy Camaro, but the concept is the same.  It's much cheaper to pay cash.  If you finance, you lock up a lot of cash flow for a long time and pay a lot more for a depreciating asset you'll have to replace anyway.  Always pay cash!
+
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
+
+<br>
+
+![](camaro.png){fig-align="center"}

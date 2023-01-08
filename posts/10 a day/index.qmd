@@ -1,12 +1,18 @@
 ---
 title: "$10 per Day"
 author: "Brian Davidhizar"
-date: "2022-12-24"
+date: "2022-12-17"
 categories: [Saving & Investing]
 image: "10 a day.png"
 ---
 
-Could you save $10 a day?
+Could you save \$10 a day?
+
+<br>
+
+[Back to Blog](https://betadelta-analytics-research.github.io/website/blog_page.html)
+
+<br>
 
 #### What habit could you change to save \$10 a day?
 
@@ -70,4 +76,62 @@ grid.arrange(plt1, nrow=1)
 png(file="10 a day.png", width=500, height=500)
 grid.arrange(plt1, nrow=1)
 dev.off()
+```
+
+<br>
+
+#### Can you find investments that return 7% per year?
+
+Some people question whether or not you can find investments that yield 7% a year.  When it comes to investments, there are no guarantees, but here's what the S&P 500 returned over 40-year rolling periods.  7% annualized returns over 40-year periods are not uncommon.
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.height=5, fig.width=6, dev = "png", dpi=100}
+library(tidyverse)
+library(readxl)
+library(ggrepel)
+library(geomtextpath)
+library(tidyquant)
+library(tidyverse)
+
+colorp <- c("#252525", "#969696", "#a50f15")
+
+sp500_prices  <- tq_get("^GSPC", get = "stock.prices", from = " 1928-01-01")
+
+sp500_monthly <- sp500_prices %>%
+  group_by(symbol) %>%
+  tq_transmute(select = adjusted, mutate_fun = to.monthly, indexAt = "lastof")
+
+sp500_returns <- tq_get("^GSPC", get  = "stock.prices", from = "1928-01-01", to   = "2022-11-30") %>%
+  tq_transmute(adjusted, periodReturn, period = "monthly", col_rename = "sp500.returns")
+
+sp500_xts <- xts(sp500_returns$sp500.returns, order.by=sp500_returns$date)
+
+sp500_40 <- rollapply(sp500_xts, width = 480, FUN = Return.annualized, fill = 0) 
+names(sp500_40) <- "S&P 500"
+sp500_40 <- sp500_40[480:length(sp500_40)]
+
+
+ggplot(sp500_40, aes(x=index(sp500_40), y=sp500_40$`S&P 500`*100)) + 
+  geom_line() +
+  geom_hline(yintercept=7, linetype=2, color=colorp[3]) +
+  geom_text(aes(index(sp500_40)[1],7),label = '7% growth', vjust = -1, hjust=.3, color=colorp[3], family='serif', size=4) +
+  geom_hline(yintercept=9, linetype=2, color=colorp[3]) +
+  geom_text(aes(index(sp500_40)[1],9),label = '9% growth', vjust = -1, hjust=.3, color=colorp[3], family='serif', size=4) +
+  labs(title = "S&P 500 Frequently Achieved 7% Annualized Growth Over 40-Year Periods",
+       subtitle = "S&P 500 Rolling 40-Year Returns Annualized",
+       caption = "Data visaulization by BetaDelta Analytics & Research
+                  \n Source: Yahoo Finance Historical Data: Adjusted Prices for ^GSPC
+                  \n R package used for gathering data and annualizing returns: tidyquant") + 
+  xlab("") +
+  ylab("") +
+  scale_y_continuous(labels = scales::percent_format(scale = 1)) +
+  theme_classic() +
+  theme(plot.title=element_text(size=16),
+        plot.caption=element_text(size=8, color=colorp[1]),
+        axis.title.x=element_text(size=14, hjust = 0),
+        axis.title.y=element_blank(), #element_text(size=14),
+        axis.text.y = element_text(size=10, hjust = 0), #element_blank(),  #remove y axis labels
+        axis.ticks.y= element_blank(),
+        axis.line.y = element_blank(),
+        text=element_text(family = "serif") #remove y axis ticks
+  )
 ```

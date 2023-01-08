@@ -39,7 +39,7 @@
     "href": "contact_us.html",
     "title": "Get Charts",
     "section": "",
-    "text": "Get help with business intelligence and communicating with data visualization.\n\nProviding bandwidth so you can focus on relationships.\nWe can help you develop visuals, business intelligence dashboards, or reporting to help you monitor your business environment.\n\n\nReady to be your preferred resource.\n\nTell us what you’re looking for.\nOnboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.\nWork with us part-time, asynchronously.\n\nWe help business leaders, expanding teams, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc.\nCreate the bandwidth you need!\n \n \n\nDon’t waste hours teaching yourself how to deliver effective data visualizations.\nPosition yourself among the professionals in your sphere.\nYou don’t need deep pockets.\n\n\nUnderstand your business.\n\n\nForm your data story.\n\n\nInfluence stakeholders.\n\n\nBe understood.\n\n\nBuild credibility.\n\n\nOne chart at a time.\n\n\n\nChart better. Lead better."
+    "text": "Get help with business intelligence and communicating with data visualization.\n\nProviding bandwidth so you can focus on relationships.\nWe can help you develop visuals, business intelligence dashboards, or reporting to help you monitor your business environment.\n\n\nHire us.\n\nTell us what you’re looking for.\nOnboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.\nWork with us part-time, asynchronously.\n\nWe help business leaders, expanding teams, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc.\nCreate the bandwidth you need!\n \n\nDon’t waste hours teaching yourself how to deliver effective data visualizations.\nPosition yourself among the professionals in your sphere.\nYou don’t need deep pockets.\n\n\nUnderstand your business.\n\n\nForm your data story.\n\n\nInfluence stakeholders.\n\n\nBe understood.\n\n\nBuild credibility.\n\n\nOne chart at a time.\n\n\n\nChart better. Lead better."
   },
   {
     "objectID": "DataViz.html",
@@ -151,7 +151,7 @@
     "href": "DataViz.html#charts",
     "title": "Portfolio",
     "section": "Charts",
-    "text": "Charts\n\nThis chart is better visualized on Tableau Public in full-screen mode.\n\n\n\n\n\nThis chart is better visualized on Tableau Public in full-screen mode."
+    "text": "Charts\n\nHere are some examples of visualizations we’ve built.\n \n\nViz 1\nThis chart is better visualized on Tableau Public in full-screen mode on a desktop computer.\n\n\n\n\n\n\n \n\n\nViz 2\n\nThis chart is better visualized on Tableau Public in full-screen mode on a desktop computer.\n\n\n\n\n\n\n \n\n\nViz 3\n\nRefer to this blog post for more context.\n\n\n\n\n\n\n\n\n\n\n \n\n\nViz 4\n\nRefer to this blog post for more context."
   },
   {
     "objectID": "index.html#creating-visuals-business-intelligence.",
@@ -165,7 +165,7 @@
     "href": "index.html#providing-bandwidth-so-you-can-focus-on-relationships.",
     "title": "Chart Better. Lead Better.",
     "section": "Providing bandwidth so you can focus on relationships.",
-    "text": "Providing bandwidth so you can focus on relationships.\nIt takes time and effort to develop charts that resonate, appeal, and correspond to reality. Don’t spin out. We can multiply your time and help you communicate better with data visualization.\n\nTell us what you’re looking for and we’ll deliver publication-ready content.\nSecurely collaborate through Google Drive, Microsoft Teams, or Github.\nAfter delivery, pay what you think it’s worth.\n\nWe help business leaders, expanding teams, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc."
+    "text": "Providing bandwidth so you can focus on relationships.\nIt takes time and effort to develop charts that resonate, appeal, and correspond to reality. Don’t spin out. We can multiply your time and help you communicate better with data visualization.\nWe can develop business intelligence dashboards and reporting that help you monitor your business environment or integrate alongside a team already dedicated to this purpose.\n\nTell us what you’re looking for.\nOnboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.\nWork with us part-time, asynchronously.\n\nWe help business leaders, expanding teams, entrepreneurs, small business owners, marketers, copywriters, graphic designers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc."
   },
   {
     "objectID": "index.html#visuals-business-intelligence-for-busy-leaders-who-need-it.",
@@ -200,7 +200,7 @@
     "href": "blog_page.html",
     "title": "BetaDelta Blog",
     "section": "",
-    "text": "$10 per Day\n\n\n\nSaving & Investing\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To The Blog\n\n\n\nWelcome\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 20, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Kill College Credit Cards\n\n\n\nDebt\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPay Cash for Your New Car\n\n\n\nDebt\n\n\nSaving & Investing\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n$10 per Day\n\n\n\nSaving & Investing\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To The Blog\n\n\n\nWelcome\n\n\n\n\n\n\n\nBrian Davidhizar\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -214,13 +214,55 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To The Blog",
     "section": "",
-    "text": "This is the first post of the BetaDelta blog. Welcome!\nWe hope you find some great resources and insight here.\nBasically, this is what my desk looks like (minus the window and cinderblock wall). I always have coffee.\nHave fun exploring the blog content! Please reach out if we can help. We’re here for you!"
+    "text": "This is the first post of the BetaDelta blog. Welcome!\nWe hope you find some great resources and insight here.\nBasically, this is what my desk looks like (minus the window and cinderblock wall). I always have coffee.\nHave fun exploring the blog content! Please reach out if we can help. We’re here for you!\n\n\nBack to Blog"
   },
   {
     "objectID": "posts/10 a day/index.html",
     "href": "posts/10 a day/index.html",
     "title": "$10 per Day",
     "section": "",
-    "text": "Could you save $10 a day?\n\nWhat habit could you change to save $10 a day?\n\n\nThe power of compounding\nThe power of compounding is immense! If you would save $10 a day and invest it at the end of each month for 40 years, and if that investment would grow at 7% annually, this is what how much wealth you would build.\n\n\n\nfinancial coaching\nWorking with a financial coach can help you change your spending habits so that you can turn this into a reality. It’s not impossible!"
+    "text": "Could you save $10 a day?\n\nBack to Blog\n\n\nWhat habit could you change to save $10 a day?\n\n\nThe power of compounding\nThe power of compounding is immense! If you would save $10 a day and invest it at the end of each month for 40 years, and if that investment would grow at 7% annually, this is what how much wealth you would build.\n\n\n\nfinancial coaching\nWorking with a financial coach can help you change your spending habits so that you can turn this into a reality. It’s not impossible!\n\n\n\n\n\n\n\n\n\n\nCan you find investments that return 7% per year?\nSome people question whether or not you can find investments that yield 7% a year. When it comes to investments, there are no guarantees, but here’s what the S&P 500 returned over 40-year rolling periods. 7% annualized returns over 40-year periods are not uncommon."
+  },
+  {
+    "objectID": "index.html#review",
+    "href": "index.html#review",
+    "title": "Chart Better. Lead Better.",
+    "section": "REVIEW",
+    "text": "REVIEW\nOur portfolio."
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Chart Better. Lead Better.",
+    "section": "EXPLORE",
+    "text": "EXPLORE\nOur blog."
+  },
+  {
+    "objectID": "index.html#meet",
+    "href": "index.html#meet",
+    "title": "Chart Better. Lead Better.",
+    "section": "MEET",
+    "text": "MEET\nYour team."
+  },
+  {
+    "objectID": "index.html#get",
+    "href": "index.html#get",
+    "title": "Chart Better. Lead Better.",
+    "section": "GET",
+    "text": "GET\nCharts."
+  },
+  {
+    "objectID": "posts/camaro/index.html",
+    "href": "posts/camaro/index.html",
+    "title": "Pay Cash for Your New Car",
+    "section": "",
+    "text": "Don’t finance your new Camaro.\n\nBack to Blog\n\n\nNeed to buy a car?\n\n\nDon’t finance it.\nThese two charts show the difference between financing and paying cash for a new car. In this case, we’re visualizing specifics related to purchasing a new 2022 Chevy Camaro, but the concept is the same. It’s much cheaper to pay cash. If you finance, you lock up a lot of cash flow for a long time and pay a lot more for a depreciating asset you’ll have to replace anyway. Always pay cash!\nThis chart is better visualized on Tableau Public in full-screen mode on a desktop computer."
+  },
+  {
+    "objectID": "posts/kill college cc/index.html",
+    "href": "posts/kill college cc/index.html",
+    "title": "Kill College Credit Cards",
+    "section": "",
+    "text": "College credit cards are useless.\n\nBack to Blog\n\n\nDo you have a college-related credit card?\n\n\nGet rid of it.\nWe are currently exploring the data made available through the Consumer Financial Protection Bureau of the United States government.\nThis is the first of several explorations in the works, but it tries to reveal the millions of dollars credit card issuers are paying academic institutions to market debt products to recent graduates and alumni.\nHere’s what we found!\nThis chart is better visualized on Tableau Public in full-screen mode on a desktop computer.\n\n\n\n\n\n\nHere is the link to the .csv file we sourced."
   }
 ]

@@ -1,0 +1,35 @@
+---
+title: "Kill College Credit Cards"
+author: "Brian Davidhizar"
+date: "2022-12-31"
+categories: [Debt]
+image: "CCCM.png"
+---
+
+College credit cards are useless.
+
+<br>
+
+[Back to Blog](https://betadelta-analytics-research.github.io/website/blog_page.html)
+
+<br>
+
+#### Do you have a college-related credit card?
+
+<br>
+
+###### Get rid of it.
+
+We are currently exploring the data made available through the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/) of the United States government.  
+
+This is the first of several explorations in the works, but it tries to reveal the millions of dollars credit card issuers are paying academic institutions to market debt products to recent graduates and alumni.
+
+Here's what we found!
+
+This chart is better visualized on [Tableau Public](https://public.tableau.com/views/KillCollegeCreditCards/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
+
+<br>
+
+![](CCCM.png){fig-align="center"}
+
+Here is the link to the [.csv file](https://files.consumerfinance.gov/f/documents/cfpb_college-credit-card-agreements-database-2009-2020.csv) we sourced.

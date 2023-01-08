@@ -13,7 +13,7 @@ Get help with business intelligence and communicating with data visualization.
 
 We can help you develop visuals, business intelligence dashboards, or reporting to help you monitor your business environment. 
 
-##### Ready to be your preferred resource. 
+##### Hire us. 
 
 1.  Tell us what you're looking for.
 2.  Onboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.
@@ -23,9 +23,7 @@ We help business leaders, expanding teams, entrepreneurs, small business owners,
 
 [Create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
-<i class="bi bi-graph-up" ></i> <input type="button" class="btn btn-danger" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">  
-
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="SCHEDULE AN APPOINTMENT">
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get Charts">
 
 ***
 

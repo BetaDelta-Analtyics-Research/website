@@ -70,7 +70,7 @@ We help business leaders, expanding teams, entrepreneurs, small business owners,
 
 ## MEET
 
-[Your team.](https://betadelta-analytics-research.github.io/website/profile.htm)
+[Your team.](https://betadelta-analytics-research.github.io/website/profile.html)
 
 ## GET
 

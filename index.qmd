@@ -1,5 +1,4 @@
 ---
-title: "Chart Better. Lead Better."
 format:
   html:
     theme: lux
@@ -11,6 +10,8 @@ format:
       body-width: 1200px
       margin-width: 100px
 ---
+
+### Business intelligence for the busy leader
 
 ###### Understand your business.
 
@@ -28,7 +29,7 @@ format:
 
 ![](pexels-alex-andrews-1203808.jpg)
 
-## Business intelligence for the busy leader. 
+### Providing bandwidth so you can focus on relationships.
 
 Business is dynamic.  Even when it's stable, it can be hard to pin down.  
 
@@ -40,7 +41,7 @@ Are you maintaining the right level of influence when you communicate with clien
 
 Good presentation of your data story can make or break your leadership credibility.  Sending more emails packed with text won't have the impact you're looking for.  We can help you chart the right path forward by providing simple visualizations that fit your narrative.  
 
-## Providing bandwidth so you can focus on relationships.
+### Chart Better. Lead Better.
 
 It takes time and effort to develop charts that resonate, appeal, and correspond to reality.  Don't spin out. We can multiply your time and help you communicate better with data visualization.   
 
@@ -60,23 +61,23 @@ We help business leaders, expanding teams, entrepreneurs, small business owners,
   
 ***
 
-## REVIEW
+### REVIEW
 
 [Our portfolio.](https://betadelta-analytics-research.github.io/website/DataViz.html)
 
-## EXPLORE
+### EXPLORE
 
 [Our blog.](https://betadelta-analytics-research.github.io/website/blog_page.html)
 
-## MEET
+### MEET
 
 [Your team.](https://betadelta-analytics-research.github.io/website/profile.html)
 
-## GET
+### GET
 
 [Charts.](https://betadelta-analytics-research.github.io/website/contact_us.html)
 
-## Data & Analytics Specialties
+### Data & Analytics Specialties
 
 -   Partnering with clients to understand requirements and deliver great products.
 

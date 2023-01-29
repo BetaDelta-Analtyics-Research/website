@@ -1,5 +1,5 @@
 ---
-title: "Get Charts"
+title: "Get bandwidth"
 format:
   html:
     theme: lux
@@ -9,7 +9,7 @@ format:
 
 Get help with business intelligence and communicating with data visualization. 
 
-##### Providing bandwidth so you can focus on relationships.
+##### Bandwidth so you can focus on the important stuff.
 
 We can help you develop visuals, business intelligence dashboards, or reporting to help you monitor your business environment. 
 
@@ -23,7 +23,7 @@ We help business leaders, expanding teams, entrepreneurs, small business owners,
 
 [Create the bandwidth you need!](https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16)
 
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get Charts">
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get BANDWIDTH">
 
 ***
 

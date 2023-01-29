@@ -4,7 +4,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET BANDWIDTH">
     grid:
       sidebar-width: 100px
       body-width: 1200px
@@ -13,39 +13,23 @@ format:
 
 ### Business intelligence for the busy leader
 
-###### Understand your business.
-
-###### Form your data story.
-
-###### Influence stakeholders.
-
-###### Be understood.
-
-###### Build credibility.
-
-###### Create bandwidth.
-
-###### Focus on relationships.
+If you're trying to get a handle on your business but are too busy to understand your own data, we can help.  We create the bandwidth you need so you can spend your time developing relationships, building strategy, and influencing decisions.
 
 ![](pexels-alex-andrews-1203808.jpg)
 
-### Providing bandwidth so you can focus on relationships.
+### Bandwidth you need for the important stuff
 
-Business is dynamic.  Even when it's stable, it can be hard to pin down.  
+Do you have the bandwidth you need to remain a dependable leader?  Are you maintaining the right level of influence when you communicate with your people, your clients, or key stakeholders?  
 
-Having trouble building a good picture of what's going on?  Do you even have the time to do it?  
+We understand you're strapped for time; you would like to influence at a higher level, but don't have the space to do either the analytics or the visualizations you really need.  If this is you, we want to help. 
 
-Do you have the bandwidth you need to remain a dependable leader?  
-
-Are you maintaining the right level of influence when you communicate with clients or key stakeholders?
-
-Good presentation of your data story can make or break your leadership credibility.  Sending more emails packed with text won't have the impact you're looking for.  We can help you chart the right path forward by providing simple visualizations that fit your narrative.  
+Good presentation of your data story and business environment can make or break your leadership credibility. We can help you chart the right path forward by providing simple visualizations that fit your narrative.  
 
 ### Chart Better. Lead Better.
 
 It takes time and effort to develop charts that resonate, appeal, and correspond to reality.  Don't spin out. We can multiply your time and help you communicate better with data visualization.   
 
-We can develop business intelligence dashboards and reporting that help you monitor your business environment or integrate alongside a team already dedicated to this purpose. 
+Hire us to develop business intelligence dashboards and reporting that help you monitor your business environment or integrate alongside a team already dedicated to this purpose. 
 
 1.  Tell us what you're looking for.
 2.  Onboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.
@@ -55,27 +39,27 @@ We help business leaders, expanding teams, entrepreneurs, small business owners,
 
 <br>
 
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get Charts">
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="GET BANDWIDTH">
 
 <br>
   
 ***
 
-### REVIEW
+### REVIEW OUR WORK
 
 [Our portfolio.](https://betadelta-analytics-research.github.io/website/DataViz.html)
 
-### EXPLORE
+### EXPLORE OUR BLOG
 
-[Our blog.](https://betadelta-analytics-research.github.io/website/blog_page.html)
+[Check it out.](https://betadelta-analytics-research.github.io/website/blog_page.html)
 
-### MEET
+### MEET YOUR TEAM
 
-[Your team.](https://betadelta-analytics-research.github.io/website/profile.html)
+[Learn about us.](https://betadelta-analytics-research.github.io/website/profile.html)
 
-### GET
+### GET BANDWIDTH
 
-[Charts.](https://betadelta-analytics-research.github.io/website/contact_us.html)
+[Connect here.](https://betadelta-analytics-research.github.io/website/contact_us.html)
 
 ### Data & Analytics Specialties
 

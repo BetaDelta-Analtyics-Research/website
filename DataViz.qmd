@@ -5,7 +5,7 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET CHARTS">
+     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET BANDWIDTH">
 ---
 
 ##### Chart better. Lead better.
@@ -21,10 +21,10 @@ Onboard us with your team or securely collaborate through Google Drive, Microsof
 
 <br>
 
-##### Providing bandwidth so you can focus on relationships.
+##### Bandwidth so you can focus on the important stuff.
 ***
 
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get Charts">
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Get BANDWIDTH">
 
 ***
 

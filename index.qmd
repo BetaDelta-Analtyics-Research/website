@@ -4,73 +4,39 @@ format:
     theme: lux
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-info" onclick="location.href='https://share.hsforms.com/1I8JrOQTdS2SPY59SMnyfNge0x16';" value="GET BANDWIDTH">
+     <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call / leave details">
     grid:
       sidebar-width: 100px
       body-width: 1200px
       margin-width: 100px
 ---
 
-### Business intelligence for the busy leader
+### Investment Product & Performance Expertise
 
-If you're trying to get a handle on your business but are too busy to understand your own data, we can help. 
-
-We create the margin you need so you can spend your time developing relationships, building strategy, and influencing decisions.
+I provide investment teams with the additional margin they need so that they can focus their energy developing relationships, building strategy, and influencing decisions.
 
 ![](pexels-alex-andrews-1203808.jpg)
 
 ### Bandwidth you need for the important stuff
 
-Do you have the bandwidth you need to remain a dependable leader?  Are you maintaining the right level of influence when you communicate with your people, your clients, or key stakeholders?  
+Hire me to fill talent gaps, perform manager research, join an advanced analytics team, or develop business intelligence dashboards that can help you monitor your business environment. 
 
-Good presentation of your data story and business environment can make or break your leadership credibility. We can help you chart the right path forward by providing simple visualizations and reporting that fit your narrative.  
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details">
 
-### Chart Better. Lead Better.
+##### Expertise when you need it.
 
-Hire us to develop business intelligence dashboards and reporting that help you monitor your business environment or integrate alongside a team already dedicated to this purpose. 
+* Hire tenured experience with investment product & performance expertise.
+* Over 15 years working with quantitiative data.
+* Understanding of multiple asset classes, investment vehicle types, investment firms, industry trends, fee arrangements, category ranings, MPT stats, asset flows, etc.
+* Deep familiarity with Morningstar Direct, eVestment, Strategic Insight's SIMFUND, etc.
+* Data modeling and predictive analytics (Python, R, postgreSQL).
+* Disciplined work-ethic.
+* Down to earth communicator with inclusive, systematic problem solving skills.
 
-1.  Tell us what you're looking for.
-2.  Onboard us with your team or securely collaborate through Google Drive, Microsoft Teams, or Github.
-3.  Work with us part-time, asynchronously.
+##### I'd love to join your mission.
 
-We are looking to help business leaders, expanding teams, entrepreneurs, small business owners, marketers, investment advisors, non-profit executives, public administrators, insurance professionals, researchers, influencers, etc.
+1.  **Call me.**  Relationships matter.  If it doesn't work out now, it still might in the near future.  Please use my Calendly scheduler to do so, but if you'd rather leave a note with your details please don't overlook the link that allows you to do that.   
 
-<br>
+2.  **Talk with your team and colleagues to get alignment.**  Discuss how extra help will contribute to everyone's success.
 
-<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="GET BANDWIDTH">
-
-<br>
-  
-***
-
-### REVIEW OUR WORK
-
-[Our portfolio.](https://betadelta-analytics-research.github.io/website/DataViz.html)
-
-### EXPLORE OUR BLOG
-
-[Check it out.](https://betadelta-analytics-research.github.io/website/blog_page.html)
-
-### MEET YOUR TEAM
-
-[Learn about us.](https://betadelta-analytics-research.github.io/website/profile.html)
-
-### GET BANDWIDTH
-
-[Connect here.](https://betadelta-analytics-research.github.io/website/contact_us.html)
-
-### Data & Analytics Specialties
-
--   Partnering with clients to understand requirements and deliver great products.
-
--   Creating data visualizations that are fit-for-purpose, easy to integrate, & easy to socialize.
-
--   Building charts and tables you can actually understand.
-
--   Delivering situational awareness through Tableau/PowerBI dashboards.
-
--   Accelerating important business conversations by leveraging data more powerfully.
-
--   Scaling data visualization and reporting programmatically using R, Python, & SQL.
-
--   Organizing data and reporting using Microsoft Excel.
+3.  **I can plug-in with your team part-time, asynchronously.**  High quality, part-time work is what I can offer.

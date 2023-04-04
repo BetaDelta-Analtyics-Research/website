@@ -8,12 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - DataViz.qmd
+      - href: profile.qmd
+        text: My Creds
       - href: blog_page.qmd
         text: Blog
-      - href: profile.qmd
-        text: Your Team
-      - contact_us.qmd
+      - get_support.qmd
     right:
       - icon: linkedin
         href: https://www.linkedin.com/company/89757630/

@@ -17,9 +17,15 @@ about:
 
 I am an analytics professional with an investments, finance, & market research background. I am also a U.S. Marine Corps Veteran. I have 12 years of experience at premier, global investment manager T. Rowe Price and currently work full-time for Ramsey Solutions as a data analyst in the digital marketing and real estate business analytics space.
 
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details!">
+
 ------------------------------------------------------------------------
 
 ### Professional Credentials
+
+###### Certificate in Investment Performance Measurement
+
+CFA Institute
 
 ###### Certified Tableau Desktop Specialist
 
@@ -28,10 +34,6 @@ Tableau
 ###### Certified Data Science Professional
 
 DataCamp
-
-###### Certificate in Investment Performance Measurement
-
-CFA Institute
 
 ------------------------------------------------------------------------
 
@@ -75,7 +77,7 @@ CFA Institute
 
 ###### Ramsey Solutions
 
-|     Data Analyst II
+|     Data Analyst
 
 ###### T. Rowe Price Associates, Inc.
 
@@ -100,3 +102,9 @@ CFA Institute
 ###### United States Marine Corps
 
 |     Sergeant, Spanish CryptoLinguist, Signals Intelligence
+
+------------------------------------------------------------------------
+
+<br>
+
+<i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details!">

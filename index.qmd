@@ -27,7 +27,7 @@ Hire me to fill talent gaps, perform manager research, join an advanced analytic
 
 * Hire tenured experience with investment product & performance expertise.
 * Over 15 years working with quantitiative data.
-* Understanding of multiple asset classes, investment vehicle types, investment firms, industry trends, fee arrangements, category rankings, portfolio theory, performance measurement statistics, asset flows, etc.
+* Understanding of multiple asset classes, investment vehicle types, investment firms, industry trends, fee arrangements, category rankings, portfolio theory, performance measurement statistics, GIPS, asset flows, etc.
 * Deep familiarity with Morningstar Direct, eVestment, Strategic Insight's SIMFUND, etc.
 * Data modeling and predictive analytics (Python, R, postgreSQL).
 * Disciplined work-ethic.

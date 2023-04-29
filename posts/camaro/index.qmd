@@ -20,7 +20,7 @@ Don't finance your new Camaro.
 
 ###### Don't finance it.
 
-These two charts show the difference between financing and paying cash for a new car.  In this case, we're visualizing specifics related to purchasing a new 2022 Chevy Camaro, but the concept is the same.  It's much cheaper to pay cash.  If you finance, you lock up a lot of cash flow for a long time and pay a lot more for a depreciating asset you'll have to replace anyway.  Always pay cash!
+These two charts show the difference between financing and paying cash for a new car. In this case, we're visualizing specifics related to purchasing a new 2022 Chevy Camaro, but the concept is the same. It's much cheaper to pay cash. If you finance, you lock up a lot of cash flow for a long time and pay a lot more for a depreciating asset you'll have to replace anyway. Always pay cash!
 
 This chart is better visualized on [Tableau Public](https://public.tableau.com/views/ChevyCamaro/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in full-screen mode on a desktop computer.
 

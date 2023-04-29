@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: coaching.qmd
+        text: Coaching
       - href: profile.qmd
         text: My Creds
       - href: blog_page.qmd

@@ -11,7 +11,7 @@ website:
       - href: coaching.qmd
         text: Coaching
       - href: profile.qmd
-        text: Credentials
+        text: Creds
       - href: blog_page.qmd
         text: Articles
       - get_support.qmd

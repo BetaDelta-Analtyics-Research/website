@@ -17,7 +17,7 @@ format:
 
 Don't waste your time looking for the right talent to fill an analytical role in your investment organization. I can help, even if you're on a limited budget.
 
-Professional support will not only help you create additional margin in your organization, but will create the bandwidth you need to focus on developing relationships, building strategy, and influencing decisions.
+Professional support will create additional margin in your organization. I can provide the bandwidth you need to focus on developing relationships, building strategy, and influencing decisions.
 
 ***
 
@@ -45,7 +45,7 @@ You need someone who can:
 
 ##### Long-term, part-time support for less
 
-Let's talk about how I can help your organization be successful.  Use my Calendly scheduler, but if you'd rather leave a note with your details please don't overlook the link therein that allows you to do that.   
+Let's talk about how I can help your organization be successful.  Use my Calendly scheduler.  Please don't overlook the link therein that allows you to leave a note with your details.   
 
 <i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details">
 

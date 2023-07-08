@@ -38,6 +38,7 @@ You need someone who can:
 * develop business intelligence dashboards
 * do market research
 * create client-facing or internal reporting
+* tell a story with data
 * manage Excel workbooks
 * query databases, etc.
 

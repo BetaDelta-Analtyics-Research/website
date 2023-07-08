@@ -1,5 +1,5 @@
 ---
-title: "BetaDelta Blog"
+title: "BetaDelta Articles"
 listing:
   contents: posts
   sort: "date desc"

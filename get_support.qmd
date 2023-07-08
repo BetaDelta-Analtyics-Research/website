@@ -10,17 +10,19 @@ format:
 
 <i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details">
 
-##### Expertise when you need it.
+##### Analytics expertise when you need it. Coaching when you need it.
 
 * Hire tenured experience with investment product & performance expertise.
+* Passionate about leadership & development.
 * Over 15 years working with quantitiative data.
+* Data Science literate.
 * Deep familiarity with Morningstar Direct, eVestment, Strategic Insight's SIMFUND, etc.
 * Disciplined work-ethic.
 * Down to earth communicator with inclusive, systematic problem solving skills.
 
-##### I'd love to join your mission.
+##### Contact me.
 
-1.  **Call me.**  Relationships matter.  If it doesn't work out now, it still might in the near future.  Please use my Calendly scheduler to do so, but if you'd rather leave a note with your details please don't overlook the link that allows you to do that.   
+1.  **Call me.**  Relationships matter.  Get help solving your toughest problems today.  Use my Calendly scheduler to reach out, but if you'd rather leave a note with your details please don't overlook the link that allows you to do that.   
 
 2.  Talk with your team about how extra help will contribute to everyone's success.
 

@@ -15,9 +15,45 @@ about:
       href: https://github.com/Bravo-Lima-Delta
 ---
 
-I am an analytics professional with an investments, finance, & market research background. I am also a U.S. Marine Corps Veteran. I have 12 years of experience at premier, global investment manager T. Rowe Price and currently work full-time for Ramsey Solutions in Franklin, Tennessee.
+I am a data science & analytics professional with an investments, finance, & market research background. I am also a U.S. Marine Corps Veteran. I have 12 years of experience at premier, global investment manager T. Rowe Price and currently work full-time for Ramsey Solutions in Franklin, Tennessee.
 
 <i class="bi bi-calendar-week-fill" ></i> <input type="button" class="btn btn-info" onclick="location.href='https://calendly.com/brian-davidhizar/30min';" value="Call or leave details">
+
+------------------------------------------------------------------------
+
+### Academic Credentials
+
+#### Master of Science
+
+###### Data Science
+
+|   Eastern University
+
+###### Leadership
+
+|   Norwich University
+
+###### Accounting & Financial Management
+
+|   University of Maryland Global Campus
+
+#### Graduate Certificate
+
+###### Computational Finance
+
+|   University of Washington
+
+#### Bachelor of Science
+
+###### International Business
+
+|   Messiah University
+
+#### Associate of Arts
+
+###### Spanish
+
+|   Defense Language Institute
 
 ------------------------------------------------------------------------
 
@@ -30,46 +66,6 @@ CFA Institute
 ###### Certified Tableau Desktop Specialist
 
 Tableau
-
-###### Certified Data Science Professional
-
-DataCamp
-
-------------------------------------------------------------------------
-
-### Academic Credentials
-
-#### Master of Science
-
-###### Data Science (current candidate)
-
-|     Eastern University
-
-###### Leadership
-
-|     Norwich University
-
-###### Accounting & Financial Management
-
-|     University of Maryland Global Campus
-
-#### Graduate Certificate
-
-###### Computational Finance
-
-|     University of Washington
-
-#### Bachelor of Science
-
-###### International Business
-
-|     Messiah University
-
-#### Associate of Arts
-
-###### Spanish
-
-|     Defense Language Institute
 
 ------------------------------------------------------------------------
 

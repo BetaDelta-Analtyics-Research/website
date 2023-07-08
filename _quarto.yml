@@ -11,9 +11,9 @@ website:
       - href: coaching.qmd
         text: Coaching
       - href: profile.qmd
-        text: My Creds
+        text: Credentials
       - href: blog_page.qmd
-        text: Blog
+        text: Articles
       - get_support.qmd
     right:
       - icon: linkedin

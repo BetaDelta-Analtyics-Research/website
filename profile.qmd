@@ -22,6 +22,7 @@ I am a data science & analytics professional with an investments, finance, & mar
 ------------------------------------------------------------------------
 
 ### Academic Credentials
+<br>
 
 #### Master of Science
 
@@ -36,18 +37,21 @@ I am a data science & analytics professional with an investments, finance, & mar
 ###### Accounting & Financial Management
 
 |   University of Maryland Global Campus
+<br>
 
 #### Graduate Certificate
 
 ###### Computational Finance
 
 |   University of Washington
+<br>
 
 #### Bachelor of Science
 
 ###### International Business
 
 |   Messiah University
+<br>
 
 #### Associate of Arts
 
@@ -58,6 +62,7 @@ I am a data science & analytics professional with an investments, finance, & mar
 ------------------------------------------------------------------------
 
 ### Professional Credentials
+<br>
 
 ###### Certificate in Investment Performance Measurement
 
@@ -70,34 +75,39 @@ Tableau
 ------------------------------------------------------------------------
 
 ### Professional Experience
+<br>
 
 ###### Ramsey Solutions
 
-|     Data Analyst
+|   Data Analyst
+<br>
 
 ###### T. Rowe Price Associates, Inc.
 
-|     Senior Manager, Data Analytics, VP
-|     Product Analyst, AVP
-|     Senior Market Research Analyst
-|     Quantitative Investment Performance Analyst
-|     Senior Portfolio Accountant
+|   Senior Manager, Data Analytics, VP
+|   Product Analyst, AVP
+|   Senior Market Research Analyst
+|   Quantitative Investment Performance Analyst
+|   Senior Portfolio Accountant
+<br>
 
 ###### Arthur Bell CPAs (now part of Cohen & Company)
 
-|     Hedge Fund Audit Staff
+|   Hedge Fund Audit Staff
+<br>
 
 ###### PricewaterhouseCoopers LLP
 
-|     Assurance Associate
+|   Assurance Associate
 
 ------------------------------------------------------------------------
 
 ### Military Service
+<br>
 
 ###### United States Marine Corps
 
-|     Sergeant, Spanish CryptoLinguist, Signals Intelligence
+|   Sergeant, Spanish CryptoLinguist, Signals Intelligence
 
 ------------------------------------------------------------------------
 
